@@ -1,0 +1,165 @@
+.header {
+  background-color: #ffffff;
+  height: 64px;
+  position: relative;
+  width: 1280px;
+}
+
+.header .header-logo {
+  height: 48px;
+  left: 24px;
+  position: absolute;
+  top: 8px;
+  width: 101px;
+}
+
+.header .avatars {
+  background-image: url(../../../static/img/face-boy-02.png);
+  background-size: 100% 100%;
+  height: 40px;
+  left: 1216px;
+  position: absolute;
+  top: 12px;
+  width: 40px;
+}
+
+.header .tabs {
+  align-items: flex-start;
+  display: flex;
+  gap: 48px;
+  position: absolute;
+  top: 16px;
+  width: fit-content;
+}
+
+.header .tab {
+  height: 48px;
+  position: relative;
+}
+
+.header .frame {
+  align-items: center;
+  display: flex;
+  gap: 4px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: fit-content;
+}
+
+.header .header-home {
+  color: #20469e;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.header .header-rectangle {
+  background-color: #20469e;
+  border-radius: 40px;
+  height: 2px;
+  position: absolute;
+  top: 46px;
+}
+
+.header .tab-2 {
+  height: 32px;
+  position: relative;
+}
+
+.header .div {
+  align-items: center;
+  display: flex;
+  gap: 8px;
+  position: relative;
+  width: fit-content;
+}
+
+.header .header-div-2 {
+  color: #6b7da4;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.header .icon-text-wrapper {
+  height: 32px;
+  min-width: 111px;
+  position: relative;
+}
+
+.header .header-icon {
+  height: 40px;
+  position: absolute;
+  top: 12px;
+  width: 40px;
+}
+
+.header .header-overlap-group {
+  background-color: #da4562;
+  border-radius: 16px;
+  box-shadow: 0px 11.35px 34.06px #da456280;
+  height: 32px;
+  left: 4px;
+  position: relative;
+  top: 4px;
+  width: 32px;
+}
+
+.header .user {
+  left: 23px;
+  width: 66px;
+}
+
+.header .class {
+  left: 17px;
+  width: 56px;
+}
+
+.header .user-tab {
+  min-width: 99px;
+}
+
+.header .class-2 {
+  min-width: 85px;
+}
+
+.header .admin {
+  min-width: 128px;
+}
+
+.header .class-3 {
+  min-width: 161px;
+}
+
+.header .admin-tabs {
+  left: 430px;
+}
+
+.header .class-4 {
+  left: 486px;
+}
+
+.header .back-save {
+  background-color: #f5f6f9;
+  border-radius: 25px;
+  left: 24px;
+}
+
+.header .class-5 {
+  background-color: #da4562;
+  border-radius: 20px;
+  left: 1152px;
+}

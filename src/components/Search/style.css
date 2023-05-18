@@ -1,0 +1,121 @@
+.search {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  width: 344px;
+}
+
+.search .input {
+  align-self: stretch;
+  border-radius: 12px;
+  display: flex;
+  padding: 12px 16px;
+  position: relative;
+}
+
+.search .placeholder-text {
+  flex: 1;
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  letter-spacing: 0;
+  position: relative;
+  white-space: nowrap;
+}
+
+.search .search-div-2 {
+  flex: 1;
+  position: relative;
+}
+
+.search .search-text-wrapper {
+  color: #082668;
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  letter-spacing: 0;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.search .search-line {
+  background-color: #082668;
+  height: 24px;
+  min-width: 2px;
+  position: relative;
+}
+
+.search .error-message {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  padding: 0px 8px;
+  position: relative;
+}
+
+.search .error-message-1707-22134 {
+  color: #c52e48;
+  flex: 1;
+  font-family: "Poppins", Helvetica;
+  font-weight: 600;
+  letter-spacing: 0;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.search .desktop {
+  font-size: 18px;
+  line-height: 23.8px;
+}
+
+.search .class {
+  font-size: 16px;
+  line-height: 24.3px;
+}
+
+.search .error {
+  align-items: flex-end;
+  background-color: #f3d5da;
+  border: 2px solid;
+  border-color: #c52e48;
+  gap: 8px;
+}
+
+.search .hightlight {
+  align-items: flex-start;
+  background-color: #ffffff;
+  border: 2px solid;
+  border-color: #20469e;
+  gap: 8px;
+}
+
+.search .typing {
+  align-items: flex-start;
+  background-color: #ffffff;
+  border: 2px solid;
+  border-color: #395186;
+}
+
+.search .disabled {
+  align-items: flex-start;
+  background-color: #e6e9f0;
+  gap: 8px;
+}
+
+.search .default {
+  align-items: flex-start;
+  background-color: #ffffff;
+  gap: 8px;
+}
+
+.search .desktop-error-message {
+  font-size: 14px;
+  line-height: 19px;
+}
+
+.search .class-2 {
+  font-size: 12px;
+  line-height: 14.4px;
+}

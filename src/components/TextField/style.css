@@ -1,0 +1,133 @@
+.text-field {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  width: 344px;
+}
+
+.text-field .input {
+  align-self: stretch;
+  display: flex;
+  position: relative;
+}
+
+.text-field .text-field-div-2 {
+  flex: 1;
+  position: relative;
+}
+
+.text-field .placeholder-text {
+  align-self: stretch;
+  color: #9ca8c3;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 24.3px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.text-field .label {
+  font-family: "Poppins", Helvetica;
+  letter-spacing: 0;
+  position: relative;
+  white-space: nowrap;
+}
+
+.text-field .placeholder-text-1777-15330 {
+  position: relative;
+}
+
+.text-field .paragraph {
+  color: #082668;
+  flex: 1;
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  height: 92px;
+  letter-spacing: 0;
+  margin-top: -2px;
+  position: relative;
+}
+
+.text-field .label-2 {
+  align-items: flex-start;
+  display: flex;
+  position: relative;
+}
+
+.text-field .label-1777-15353 {
+  color: #6b7da4;
+  font-family: "Poppins", Helvetica;
+  font-weight: 600;
+  letter-spacing: 0;
+  position: relative;
+  white-space: nowrap;
+}
+
+.text-field .placeholder-text-1777-15354 {
+  align-self: stretch;
+  color: #c52e48;
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  letter-spacing: 0;
+  position: relative;
+  white-space: nowrap;
+}
+
+.text-field .placeholder-text-1777-15334 {
+  flex: 1;
+  font-family: "Poppins", Helvetica;
+  font-weight: 600;
+  letter-spacing: 0;
+  position: relative;
+  white-space: nowrap;
+}
+
+.text-field .desktop {
+  font-size: 18px;
+  line-height: 23.8px;
+}
+
+.text-field .class {
+  font-size: 16px;
+  line-height: 24.3px;
+}
+
+.text-field .mobile {
+  align-self: stretch;
+  font-size: 12px;
+  height: 16px;
+  line-height: 14.4px;
+  margin-top: -6px;
+}
+
+.text-field .class-2 {
+  font-size: 14px;
+  line-height: 19px;
+  margin-top: -7.5px;
+  width: fit-content;
+}
+
+.text-field .desktop-placeholder-text {
+  font-size: 18px;
+  line-height: 23.8px;
+  margin-bottom: -3.5px;
+}
+
+.text-field .class-3 {
+  font-size: 16px;
+  line-height: 24.3px;
+  margin-bottom: -2px;
+}
+
+.text-field .error {
+  align-items: flex-start;
+  padding: 0px 8px;
+}
+
+.text-field .class-4 {
+  align-items: center;
+}

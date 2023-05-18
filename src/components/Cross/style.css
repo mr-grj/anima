@@ -1,0 +1,13 @@
+.cross {
+  height: 40px;
+  position: relative;
+  width: 40px;
+}
+
+.cross .vector {
+  height: 22px;
+  left: 9px;
+  position: absolute;
+  top: 9px;
+  width: 22px;
+}

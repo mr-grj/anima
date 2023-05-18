@@ -1,0 +1,13 @@
+.arrow {
+  height: 40px;
+  position: relative;
+  width: 40px;
+}
+
+.arrow .arrow-img {
+  height: 24px;
+  left: 8px;
+  position: absolute;
+  top: 8px;
+  width: 24px;
+}

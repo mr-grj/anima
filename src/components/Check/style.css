@@ -1,0 +1,13 @@
+.check {
+  height: 40px;
+  position: relative;
+  width: 40px;
+}
+
+.check .check-vector {
+  height: 18px;
+  left: 8px;
+  position: absolute;
+  top: 11px;
+  width: 24px;
+}

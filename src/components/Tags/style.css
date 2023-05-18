@@ -1,0 +1,17 @@
+.tags {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  position: relative;
+  width: fit-content;
+}
+
+.tags .tags-text {
+  font-family: "Poppins", Helvetica;
+  letter-spacing: 0;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}

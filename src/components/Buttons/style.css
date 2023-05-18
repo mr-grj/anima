@@ -1,0 +1,16 @@
+.buttons {
+  align-items: center;
+  display: flex;
+  gap: 8px;
+  position: relative;
+  width: fit-content;
+}
+
+.buttons .label {
+  font-family: "Poppins", Helvetica;
+  font-weight: 700;
+  letter-spacing: 0;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}

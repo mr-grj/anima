@@ -1,0 +1,118 @@
+.add-new-pet {
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.add-new-pet .add-new-pet-wrapper {
+  border: 1px none;
+  height: 720px;
+  width: 1280px;
+}
+
+.add-new-pet .overlap-group-wrapper {
+  background-color: #fcf7ef;
+  height: 720px;
+}
+
+.add-new-pet .overlap-group {
+  background-color: #08266880;
+  height: 720px;
+  width: 1280px;
+}
+
+.add-new-pet .content {
+  align-items: flex-start;
+  background-color: #fcf7ef;
+  border-radius: 12px;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  left: 468px;
+  padding: 32px;
+  position: relative;
+  top: 48px;
+  width: fit-content;
+}
+
+.add-new-pet .text-wrapper {
+  color: #082668;
+  font-family: "Poppins", Helvetica;
+  font-size: 18px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 23.8px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: 344px;
+}
+
+.add-new-pet .h-1 {
+  color: #082668;
+  font-family: "Poppins", Helvetica;
+  font-size: 28.1px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 39.9px;
+  position: relative;
+  white-space: nowrap;
+  width: 352px;
+}
+
+.add-new-pet .icon {
+  background-color: #ffffff;
+  border-radius: 25px;
+  cursor: pointer;
+  height: 40px;
+  left: 360px;
+  position: absolute;
+  top: 16px;
+  width: 40px;
+}
+
+.add-new-pet .form-button {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  position: relative;
+  width: fit-content;
+}
+
+.add-new-pet .add-new-pet-div-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  position: relative;
+  width: fit-content;
+}
+
+.add-new-pet .img {
+  align-items: center;
+  display: flex;
+  gap: 16px;
+  position: relative;
+  width: fit-content;
+}
+
+.add-new-pet .avatars {
+  background-image: url(../../../static/img/icon-avatar-6.svg);
+  background-size: 100% 100%;
+  border-radius: 200px;
+  height: 96px;
+  min-width: 96px;
+  position: relative;
+}
+
+.add-new-pet .treat-wrapper {
+  background-color: #e6e9f0;
+  border-radius: 25px;
+  height: 32px;
+  min-width: 32px;
+  position: relative;
+}

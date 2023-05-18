@@ -1,0 +1,1717 @@
+.my-pets {
+  background-color: #fcf7ef;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.my-pets .my-pets-1pet {
+  background-color: #fcf7ef;
+  border: 1px none;
+  height: 1993px;
+  position: relative;
+  width: 1280px;
+}
+
+.my-pets .overlap {
+  height: 1824px;
+  left: 168px;
+  position: absolute;
+  top: 96px;
+  width: 949px;
+}
+
+.my-pets .union {
+  height: 38px;
+  left: 744px;
+  position: absolute;
+  top: 527px;
+  width: 32px;
+}
+
+.my-pets .img {
+  height: 34px;
+  left: 448px;
+  position: absolute;
+  top: 110px;
+  width: 32px;
+}
+
+.my-pets .content {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: fit-content;
+}
+
+.my-pets .div-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  position: relative;
+  width: fit-content;
+}
+
+.my-pets .details {
+  background-color: #ffffff;
+  border-radius: 12px;
+  box-shadow: 0px 8px 12px -4px #f5eeea99;
+  height: 104px;
+  min-width: 944px;
+  position: relative;
+}
+
+.my-pets .copy {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  left: 593px;
+  position: absolute;
+  top: 30px;
+  width: fit-content;
+}
+
+.my-pets .text-wrapper {
+  color: #082668;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.my-pets .text-wrapper-2 {
+  color: #9ca8c3;
+  font-family: "Poppins", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 19px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.my-pets .copy-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  left: 433px;
+  position: absolute;
+  top: 30px;
+  width: fit-content;
+}
+
+.my-pets .copy-3 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  left: 773px;
+  position: absolute;
+  top: 30px;
+  width: fit-content;
+}
+
+.my-pets .vector {
+  height: 104px;
+  left: 748px;
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+
+.my-pets .vector-145 {
+  height: 104px;
+  left: 568px;
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+
+.my-pets .vector-146 {
+  height: 104px;
+  left: 408px;
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+
+.my-pets .icon {
+  height: 32px;
+  left: 896px;
+  position: absolute;
+  top: 20px;
+  width: 32px;
+}
+
+.my-pets .overlap-group {
+  border-radius: 25px;
+  height: 32px;
+  position: relative;
+}
+
+.my-pets .ellipse {
+  background-color: #e6e9f0;
+  border-radius: 25px;
+  cursor: pointer;
+  height: 32px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 32px;
+}
+
+.my-pets .content-2 {
+  align-items: center;
+  display: flex;
+  gap: 16px;
+  left: 16px;
+  position: absolute;
+  top: 16px;
+  width: fit-content;
+}
+
+.my-pets .dog {
+  height: 72px;
+  min-width: 72px;
+  position: relative;
+}
+
+.my-pets .copy-4 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  width: fit-content;
+}
+
+.my-pets .name-en-x {
+  color: #082668;
+  font-family: "Poppins", Helvetica;
+  font-size: 28.1px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 39.9px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.my-pets .name-en-x-2 {
+  color: #395186;
+  font-family: "Poppins", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 23.8px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.my-pets .div-3 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  position: relative;
+  width: fit-content;
+}
+
+.my-pets .div-4 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  position: relative;
+  width: fit-content;
+}
+
+.my-pets .title {
+  height: 40px;
+  min-width: 354px;
+  position: relative;
+}
+
+.my-pets .text-wrapper-3 {
+  color: #082668;
+  font-family: "Poppins", Helvetica;
+  font-size: 28.1px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 39.9px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+  width: 352px;
+}
+
+.my-pets .my-pets-header {
+  height: 40px;
+  margin-right: -8px;
+  min-width: 952px;
+  position: relative;
+}
+
+.my-pets .overlap-group-2 {
+  background-color: #395186;
+  border-radius: 8px;
+  height: 40px;
+  position: relative;
+  width: 944px;
+}
+
+.my-pets .text-wrapper-4 {
+  color: #ffffff;
+  font-family: "Poppins", Helvetica;
+  font-size: 14px;
+  font-weight: 600;
+  left: 16px;
+  letter-spacing: 0;
+  line-height: 19px;
+  position: absolute;
+  top: 11px;
+  white-space: nowrap;
+}
+
+.my-pets .text-wrapper-5 {
+  color: #ffffff;
+  font-family: "Poppins", Helvetica;
+  font-size: 14px;
+  font-weight: 600;
+  left: 747px;
+  letter-spacing: 0;
+  line-height: 19px;
+  position: absolute;
+  text-align: right;
+  top: 11px;
+  white-space: nowrap;
+}
+
+.my-pets .text-wrapper-6 {
+  color: #ffffff;
+  font-family: "Poppins", Helvetica;
+  font-size: 14px;
+  font-weight: 600;
+  left: 893px;
+  letter-spacing: 0;
+  line-height: 19px;
+  position: absolute;
+  text-align: right;
+  top: 11px;
+  white-space: nowrap;
+}
+
+.my-pets .text-wrapper-7 {
+  color: #ffffff;
+  font-family: "Poppins", Helvetica;
+  font-size: 14px;
+  font-weight: 600;
+  left: 604px;
+  letter-spacing: 0;
+  line-height: 19px;
+  position: absolute;
+  text-align: right;
+  top: 11px;
+  white-space: nowrap;
+}
+
+.my-pets .row {
+  background-color: #ffffff;
+  border-radius: 12px;
+  box-shadow: 0px 8px 12px -4px #f5eeea99;
+  cursor: pointer;
+  height: 64px;
+  min-width: 944px;
+  position: relative;
+}
+
+.my-pets .text-wrapper-8 {
+  color: #082668;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 604px;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  position: absolute;
+  top: 22px;
+  white-space: nowrap;
+}
+
+.my-pets .text-wrapper-9 {
+  color: #082668;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 72px;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  position: absolute;
+  top: 22px;
+  white-space: nowrap;
+}
+
+.my-pets .text-wrapper-10 {
+  color: #082668;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 747px;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  position: absolute;
+  top: 22px;
+  white-space: nowrap;
+}
+
+.my-pets .logo {
+  background-color: #89756f;
+  border-radius: 12px;
+  height: 40px;
+  left: 16px;
+  position: absolute;
+  top: 12px;
+  width: 40px;
+}
+
+.my-pets .image {
+  height: 27px;
+  left: 7px;
+  position: absolute;
+  top: 6px;
+  width: 26px;
+}
+
+.my-pets .number {
+  background-color: #e6e9f0;
+  border-radius: 25px;
+  height: 32px;
+  left: 896px;
+  position: absolute;
+  top: 16px;
+  width: 32px;
+}
+
+.my-pets .vector-137 {
+  height: 12px;
+  left: 14px;
+  position: absolute;
+  top: 10px;
+  width: 7px;
+}
+
+.my-pets .image-wrapper {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #e6e9f0;
+  border-radius: 12px;
+  height: 40px;
+  left: 16px;
+  position: absolute;
+  top: 12px;
+  width: 40px;
+}
+
+.my-pets .image-4 {
+  height: 12px;
+  left: 4px;
+  object-fit: cover;
+  position: absolute;
+  top: 13px;
+  width: 30px;
+}
+
+.my-pets .div-5 {
+  align-items: flex-start;
+  display: flex;
+  gap: 16px;
+  position: relative;
+  width: fit-content;
+}
+
+.my-pets .chart {
+  background-color: #ffffff;
+  border-radius: 12px;
+  box-shadow: 0px 8px 12px -4px #f5eeea99;
+  height: 280px;
+  min-width: 464px;
+  position: relative;
+}
+
+.my-pets .text-wrapper-11 {
+  color: #082668;
+  font-family: "Poppins", Helvetica;
+  font-size: 18px;
+  font-weight: 600;
+  left: 24px;
+  letter-spacing: 0;
+  line-height: 23.8px;
+  position: absolute;
+  top: 23px;
+  white-space: nowrap;
+}
+
+.my-pets .legend {
+  align-items: flex-start;
+  display: flex;
+  gap: 13px;
+  left: 24px;
+  position: absolute;
+  top: 56px;
+  width: fit-content;
+}
+
+.my-pets .div-6 {
+  align-items: center;
+  display: flex;
+  gap: 8px;
+  position: relative;
+  width: fit-content;
+}
+
+.my-pets .ellipse-840 {
+  background-color: #d9ba7a;
+  border-radius: 5px;
+  height: 10px;
+  min-width: 10px;
+  position: relative;
+}
+
+.my-pets .text-wrapper-12 {
+  color: #082668;
+  font-family: "Poppins", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 19px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.my-pets .ellipse-2 {
+  background-color: #b186e8;
+  border-radius: 5px;
+  height: 10px;
+  min-width: 10px;
+  position: relative;
+}
+
+.my-pets .ellipse-3 {
+  background-color: #6b8ac5;
+  border-radius: 5px;
+  height: 10px;
+  min-width: 10px;
+  position: relative;
+}
+
+.my-pets .overlap-2 {
+  height: 173px;
+  left: 24px;
+  position: absolute;
+  top: 87px;
+  width: 422px;
+}
+
+.my-pets .graph {
+  height: 168px;
+  left: 0;
+  position: absolute;
+  top: 5px;
+  width: 422px;
+}
+
+.my-pets .overlap-3 {
+  height: 168px;
+  position: relative;
+}
+
+.my-pets .rectangle {
+  background-color: #f3d5da;
+  height: 33px;
+  left: 39px;
+  opacity: 0.4;
+  position: absolute;
+  top: 113px;
+  width: 377px;
+}
+
+.my-pets .rectangle-23971 {
+  background-color: #f8ecdd;
+  height: 49px;
+  left: 39px;
+  opacity: 0.4;
+  position: absolute;
+  top: 64px;
+  width: 377px;
+}
+
+.my-pets .rectangle-23972 {
+  background-color: #e2f3e6;
+  height: 58px;
+  left: 39px;
+  opacity: 0.4;
+  position: absolute;
+  top: 6px;
+  width: 377px;
+}
+
+.my-pets .text-wrapper-13 {
+  color: #c52e48;
+  font-family: "Poppins", Helvetica;
+  font-size: 10px;
+  font-weight: 400;
+  left: 47px;
+  letter-spacing: 0;
+  line-height: 12px;
+  position: absolute;
+  top: 123px;
+  white-space: nowrap;
+}
+
+.my-pets .text-wrapper-14 {
+  color: #db9f53;
+  font-family: "Poppins", Helvetica;
+  font-size: 10px;
+  font-weight: 400;
+  left: 47px;
+  letter-spacing: 0;
+  line-height: 12px;
+  position: absolute;
+  top: 82px;
+  white-space: nowrap;
+}
+
+.my-pets .text-wrapper-15 {
+  color: #6ec181;
+  font-family: "Poppins", Helvetica;
+  font-size: 10px;
+  font-weight: 400;
+  left: 47px;
+  letter-spacing: 0;
+  line-height: 12px;
+  position: absolute;
+  top: 28px;
+  white-space: nowrap;
+}
+
+.my-pets .graph-2 {
+  height: 168px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 422px;
+}
+
+.my-pets .graph-3 {
+  height: 154px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 418px;
+}
+
+.my-pets .group {
+  height: 14px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 31px;
+}
+
+.my-pets .title-2 {
+  color: #395186;
+  font-family: "Poppins", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 14.4px;
+  position: absolute;
+  text-align: right;
+  top: 0;
+  white-space: nowrap;
+}
+
+.my-pets .group-3 {
+  height: 14px;
+  left: 6px;
+  position: absolute;
+  top: 35px;
+  width: 27px;
+}
+
+.my-pets .group-2 {
+  height: 14px;
+  left: 6px;
+  position: absolute;
+  top: 70px;
+  width: 27px;
+}
+
+.my-pets .group-1 {
+  height: 14px;
+  left: 10px;
+  position: absolute;
+  top: 105px;
+  width: 23px;
+}
+
+.my-pets .title-3 {
+  color: #395186;
+  font-family: "Poppins", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 14px;
+  letter-spacing: 0;
+  line-height: 14.4px;
+  position: absolute;
+  text-align: right;
+  top: 140px;
+  white-space: nowrap;
+}
+
+.my-pets .overlap-group-3 {
+  height: 140px;
+  left: 38px;
+  position: absolute;
+  top: 6px;
+  width: 377px;
+}
+
+.my-pets .vector-62 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 139px;
+  width: 377px;
+}
+
+.my-pets .vector-63 {
+  height: 140px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+
+.my-pets .text-wrapper-16 {
+  color: #395186;
+  font-family: "Poppins", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 81px;
+  letter-spacing: 0;
+  line-height: 14.4px;
+  position: absolute;
+  text-align: center;
+  top: 154px;
+  white-space: nowrap;
+}
+
+.my-pets .text-wrapper-17 {
+  color: #395186;
+  font-family: "Poppins", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 134px;
+  letter-spacing: 0;
+  line-height: 14.4px;
+  position: absolute;
+  text-align: center;
+  top: 154px;
+  white-space: nowrap;
+}
+
+.my-pets .text-wrapper-18 {
+  color: #395186;
+  font-family: "Poppins", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 194px;
+  letter-spacing: 0;
+  line-height: 14.4px;
+  position: absolute;
+  text-align: center;
+  top: 154px;
+  white-space: nowrap;
+}
+
+.my-pets .stats {
+  height: 125px;
+  left: 84px;
+  position: absolute;
+  top: 21px;
+  width: 24px;
+}
+
+.my-pets .rectangle-23962 {
+  background-color: #d9ba7a;
+  border-radius: 12px 12px 0px 0px;
+  height: 125px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 8px;
+}
+
+.my-pets .rectangle-23973 {
+  background-color: #b186e8;
+  border-radius: 12px 12px 0px 0px;
+  height: 93px;
+  left: 8px;
+  position: absolute;
+  top: 32px;
+  width: 8px;
+}
+
+.my-pets .rectangle-23974 {
+  background-color: #6b8ac5;
+  border-radius: 12px 12px 0px 0px;
+  height: 62px;
+  left: 16px;
+  position: absolute;
+  top: 63px;
+  width: 8px;
+}
+
+.my-pets .stats-2 {
+  height: 118px;
+  left: 140px;
+  position: absolute;
+  top: 28px;
+  width: 24px;
+}
+
+.my-pets .rectangle-2 {
+  background-color: #d9ba7a;
+  border-radius: 12px 12px 0px 0px;
+  height: 118px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 8px;
+}
+
+.my-pets .rectangle-3 {
+  background-color: #b186e8;
+  border-radius: 12px 12px 0px 0px;
+  height: 100px;
+  left: 8px;
+  position: absolute;
+  top: 18px;
+  width: 8px;
+}
+
+.my-pets .rectangle-4 {
+  background-color: #6b8ac5;
+  border-radius: 12px 12px 0px 0px;
+  height: 76px;
+  left: 16px;
+  position: absolute;
+  top: 42px;
+  width: 8px;
+}
+
+.my-pets .div-wrapper {
+  height: 118px;
+  left: 200px;
+  position: absolute;
+  top: 28px;
+  width: 25px;
+}
+
+.my-pets .div-7 {
+  height: 118px;
+  position: relative;
+  width: 30px;
+}
+
+.my-pets .rectangle-5 {
+  background-color: #d9ba7a;
+  border-radius: 12px 12px 0px 0px;
+  height: 108px;
+  left: 0;
+  position: absolute;
+  top: 10px;
+  width: 8px;
+}
+
+.my-pets .rectangle-6 {
+  background-color: #b186e8;
+  border-radius: 12px 12px 0px 0px;
+  height: 118px;
+  left: 8px;
+  position: absolute;
+  top: 0;
+  width: 8px;
+}
+
+.my-pets .rectangle-7 {
+  background-color: #6b8ac5;
+  border-radius: 12px 12px 0px 0px;
+  height: 87px;
+  left: 16px;
+  position: absolute;
+  top: 31px;
+  width: 8px;
+}
+
+.my-pets .hand {
+  height: 32px;
+  left: 2px;
+  position: absolute;
+  top: 26px;
+  width: 28px;
+}
+
+.my-pets .tooltip {
+  height: 52px;
+  left: 176px;
+  position: absolute;
+  top: 0;
+  width: 74px;
+}
+
+.my-pets .overlap-4 {
+  height: 51px;
+  position: relative;
+}
+
+.my-pets .polygon {
+  height: 8px;
+  left: 32px;
+  position: absolute;
+  top: 43px;
+  width: 9px;
+}
+
+.my-pets .tag {
+  align-items: flex-start;
+  background-color: #e9ecf5;
+  border-radius: 4px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  left: 0;
+  padding: 5px 8px;
+  position: absolute;
+  top: 0;
+  width: fit-content;
+}
+
+.my-pets .zeke {
+  color: #395186;
+  font-family: "Poppins", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 14.4px;
+  margin-top: -1px;
+  position: relative;
+  text-align: right;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.my-pets .span {
+  color: #395186;
+  font-family: "Poppins", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 14.4px;
+}
+
+.my-pets .text-wrapper-19 {
+  font-weight: 600;
+}
+
+.my-pets .avg {
+  color: #395186;
+  font-family: "Poppins", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 14.4px;
+  position: relative;
+  text-align: right;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.my-pets .ellipse-4 {
+  background-color: #cb855d;
+  border-radius: 5px;
+  height: 10px;
+  min-width: 10px;
+  position: relative;
+}
+
+.my-pets .overlap-5 {
+  height: 168px;
+  left: 26px;
+  position: absolute;
+  top: 92px;
+  width: 421px;
+}
+
+.my-pets .div-8 {
+  height: 168px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 421px;
+}
+
+.my-pets .rectangle-23970 {
+  background-color: #f3d5da;
+  height: 33px;
+  left: 22px;
+  opacity: 0.4;
+  position: absolute;
+  top: 113px;
+  width: 393px;
+}
+
+.my-pets .rectangle-8 {
+  background-color: #f8ecdd;
+  height: 49px;
+  left: 22px;
+  opacity: 0.4;
+  position: absolute;
+  top: 64px;
+  width: 393px;
+}
+
+.my-pets .rectangle-9 {
+  background-color: #e2f3e6;
+  height: 58px;
+  left: 22px;
+  opacity: 0.4;
+  position: absolute;
+  top: 6px;
+  width: 393px;
+}
+
+.my-pets .ellipse-849 {
+  background-color: #cb855d;
+  border-radius: 4px;
+  height: 8px;
+  left: 68px;
+  position: absolute;
+  top: 42px;
+  width: 8px;
+}
+
+.my-pets .ellipse-850 {
+  background-color: #cb855d;
+  border-radius: 4px;
+  height: 8px;
+  left: 131px;
+  position: absolute;
+  top: 18px;
+  width: 8px;
+}
+
+.my-pets .ellipse-851 {
+  background-color: #cb855d;
+  border-radius: 4px;
+  height: 8px;
+  left: 198px;
+  position: absolute;
+  top: 10px;
+  width: 8px;
+}
+
+.my-pets .ellipse-5 {
+  background-color: #d9ba7a;
+  border-radius: 4px;
+  height: 8px;
+  left: 68px;
+  position: absolute;
+  top: 17px;
+  width: 8px;
+}
+
+.my-pets .ellipse-844 {
+  background-color: #6b8ac5;
+  border-radius: 4px;
+  height: 8px;
+  left: 68px;
+  position: absolute;
+  top: 109px;
+  width: 8px;
+}
+
+.my-pets .ellipse-845 {
+  background-color: #6b8ac5;
+  border-radius: 4px;
+  height: 8px;
+  left: 131px;
+  position: absolute;
+  top: 77px;
+  width: 8px;
+}
+
+.my-pets .ellipse-846 {
+  background-color: #6b8ac5;
+  border-radius: 4px;
+  height: 8px;
+  left: 198px;
+  position: absolute;
+  top: 93px;
+  width: 8px;
+}
+
+.my-pets .vector-152 {
+  height: 10px;
+  left: 136px;
+  position: absolute;
+  top: 28px;
+  width: 66px;
+}
+
+.my-pets .vector-153 {
+  height: 8px;
+  left: 137px;
+  position: absolute;
+  top: 52px;
+  width: 65px;
+}
+
+.my-pets .vector-154 {
+  height: 16px;
+  left: 138px;
+  position: absolute;
+  top: 81px;
+  width: 63px;
+}
+
+.my-pets .vector-150 {
+  height: 31px;
+  left: 74px;
+  position: absolute;
+  top: 81px;
+  width: 60px;
+}
+
+.my-pets .ellipse-842 {
+  background-color: #b186e8;
+  border-radius: 4px;
+  height: 8px;
+  left: 68px;
+  position: absolute;
+  top: 65px;
+  width: 8px;
+}
+
+.my-pets .ellipse-843 {
+  background-color: #b186e8;
+  border-radius: 4px;
+  height: 8px;
+  left: 198px;
+  position: absolute;
+  top: 48px;
+  width: 8px;
+}
+
+.my-pets .ellipse-848 {
+  background-color: #b186e8;
+  border-radius: 4px;
+  height: 8px;
+  left: 131px;
+  position: absolute;
+  top: 56px;
+  width: 8px;
+}
+
+.my-pets .ellipse-841 {
+  background-color: #d9ba7a;
+  border-radius: 4px;
+  height: 8px;
+  left: 131px;
+  position: absolute;
+  top: 33px;
+  width: 8px;
+}
+
+.my-pets .ellipse-847 {
+  background-color: #d9ba7a;
+  border-radius: 4px;
+  height: 8px;
+  left: 198px;
+  position: absolute;
+  top: 24px;
+  width: 8px;
+}
+
+.my-pets .text-wrapper-20 {
+  color: #c52e48;
+  font-family: "Poppins", Helvetica;
+  font-size: 10px;
+  font-weight: 400;
+  left: 30px;
+  letter-spacing: 0;
+  line-height: 12px;
+  position: absolute;
+  top: 123px;
+  white-space: nowrap;
+}
+
+.my-pets .text-wrapper-21 {
+  color: #db9f53;
+  font-family: "Poppins", Helvetica;
+  font-size: 10px;
+  font-weight: 400;
+  left: 30px;
+  letter-spacing: 0;
+  line-height: 12px;
+  position: absolute;
+  top: 82px;
+  white-space: nowrap;
+}
+
+.my-pets .text-wrapper-22 {
+  color: #6ec181;
+  font-family: "Poppins", Helvetica;
+  font-size: 10px;
+  font-weight: 400;
+  left: 30px;
+  letter-spacing: 0;
+  line-height: 12px;
+  position: absolute;
+  top: 28px;
+  white-space: nowrap;
+}
+
+.my-pets .graph-4 {
+  height: 154px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 417px;
+}
+
+.my-pets .group-4 {
+  height: 14px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 14px;
+}
+
+.my-pets .title-wrapper {
+  height: 14px;
+  left: 6px;
+  position: absolute;
+  top: 35px;
+  width: 10px;
+}
+
+.my-pets .group-5 {
+  height: 14px;
+  left: 6px;
+  position: absolute;
+  top: 70px;
+  width: 10px;
+}
+
+.my-pets .group-6 {
+  height: 14px;
+  left: 6px;
+  position: absolute;
+  top: 105px;
+  width: 10px;
+}
+
+.my-pets .title-4 {
+  color: #395186;
+  font-family: "Poppins", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 6px;
+  letter-spacing: 0;
+  line-height: 14.4px;
+  position: absolute;
+  text-align: right;
+  top: 140px;
+  white-space: nowrap;
+}
+
+.my-pets .overlap-group2 {
+  height: 140px;
+  left: 22px;
+  position: absolute;
+  top: 6px;
+  width: 394px;
+}
+
+.my-pets .overlap-group-4 {
+  height: 140px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 394px;
+}
+
+.my-pets .vector-2 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 139px;
+  width: 393px;
+}
+
+.my-pets .overlap-group1 {
+  height: 32px;
+  left: 51px;
+  position: absolute;
+  top: 7px;
+  width: 130px;
+}
+
+.my-pets .vector-148 {
+  height: 15px;
+  left: 2px;
+  position: absolute;
+  top: 9px;
+  width: 57px;
+}
+
+.my-pets .vector-155 {
+  height: 32px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 130px;
+}
+
+.my-pets .text-wrapper-23 {
+  color: #395186;
+  font-family: "Poppins", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 57px;
+  letter-spacing: 0;
+  line-height: 14.4px;
+  position: absolute;
+  text-align: center;
+  top: 154px;
+  white-space: nowrap;
+}
+
+.my-pets .text-wrapper-24 {
+  color: #395186;
+  font-family: "Poppins", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 117px;
+  letter-spacing: 0;
+  line-height: 14.4px;
+  position: absolute;
+  text-align: center;
+  top: 154px;
+  white-space: nowrap;
+}
+
+.my-pets .text-wrapper-25 {
+  color: #395186;
+  font-family: "Poppins", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 184px;
+  letter-spacing: 0;
+  line-height: 14.4px;
+  position: absolute;
+  text-align: center;
+  top: 154px;
+  white-space: nowrap;
+}
+
+.my-pets .vector-3 {
+  height: 9px;
+  left: 74px;
+  position: absolute;
+  top: 60px;
+  width: 60px;
+}
+
+.my-pets .tooltip-2 {
+  height: 62px;
+  left: 167px;
+  position: absolute;
+  top: 58px;
+  width: 74px;
+}
+
+.my-pets .hand-2 {
+  height: 32px;
+  left: 26px;
+  position: absolute;
+  top: 38px;
+  width: 28px;
+}
+
+.my-pets .tooltip-3 {
+  height: 30px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 74px;
+}
+
+.my-pets .overlap-group-5 {
+  height: 29px;
+  position: relative;
+}
+
+.my-pets .polygon-1 {
+  height: 8px;
+  left: 32px;
+  position: absolute;
+  top: 21px;
+  width: 9px;
+}
+
+.my-pets .my-pets-product {
+  background-color: #ffffff;
+  border-radius: 12px;
+  box-shadow: 0px 8px 12px -4px #f5eeea99;
+  height: 112px;
+  min-width: 464px;
+  position: relative;
+}
+
+.my-pets .p {
+  color: #395186;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  left: 96px;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  position: absolute;
+  top: 15px;
+  white-space: nowrap;
+}
+
+.my-pets .name-en-x-3 {
+  color: #395186;
+  font-family: "Poppins", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 96px;
+  letter-spacing: 0;
+  line-height: 19px;
+  position: absolute;
+  top: 49px;
+  width: 194px;
+}
+
+.my-pets .union-2 {
+  height: 20px;
+  left: 410px;
+  position: absolute;
+  top: 13px;
+  width: 19px;
+}
+
+.my-pets .union-3 {
+  height: 20px;
+  left: 294px;
+  position: absolute;
+  top: 79px;
+  width: 19px;
+}
+
+.my-pets .element-treattherapeutics-removebg-preview {
+  height: 82px;
+  left: 19px;
+  position: absolute;
+  top: 15px;
+  width: 61px;
+}
+
+.my-pets .ezgif {
+  height: 76px;
+  left: 22px;
+  position: absolute;
+  top: 18px;
+  width: 54px;
+}
+
+.my-pets .text-wrapper-26 {
+  color: #082668;
+  font-family: "Poppins", Helvetica;
+  font-size: 28.1px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 39.9px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: 352px;
+}
+
+.my-pets .segmented {
+  height: 48px;
+  min-width: 949px;
+  position: relative;
+}
+
+.my-pets .overlap-group-6 {
+  height: 48px;
+  position: relative;
+  width: 949px;
+}
+
+.my-pets .rectangle-23968 {
+  background-color: #ffffff;
+  border-radius: 12px;
+  height: 48px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 944px;
+}
+
+.my-pets .tabs {
+  align-items: flex-start;
+  display: flex;
+  left: 5px;
+  position: absolute;
+  top: 5px;
+  width: fit-content;
+}
+
+.my-pets .tab {
+  align-items: flex-start;
+  background-color: #20469e;
+  border-radius: 12px;
+  display: flex;
+  gap: 8px;
+  justify-content: center;
+  padding: 7px 8px;
+  position: relative;
+  width: 472px;
+}
+
+.my-pets .text-wrapper-27 {
+  color: #ffffff;
+  font-family: "Titillium Web", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 23.8px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.my-pets .tab-2 {
+  align-items: flex-start;
+  border-radius: 12px;
+  display: flex;
+  gap: 8px;
+  justify-content: center;
+  padding: 7px 8px;
+  position: relative;
+  width: 472px;
+}
+
+.my-pets .text-wrapper-28 {
+  color: #9ca8c3;
+  font-family: "Titillium Web", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 23.8px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.my-pets .row-2 {
+  align-items: flex-start;
+  display: flex;
+  gap: 8px;
+  position: relative;
+  width: fit-content;
+}
+
+.my-pets .my-pets-tags {
+  align-items: center;
+  background-color: #20469e;
+  border-radius: 40px;
+  display: flex;
+  gap: 10px;
+  overflow: hidden;
+  padding: 4px 12px;
+  position: relative;
+  width: fit-content;
+}
+
+.my-pets .text {
+  color: #ffffff;
+  font-family: "Poppins", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 23.8px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.my-pets .tags-2 {
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 40px;
+  display: flex;
+  gap: 10px;
+  overflow: hidden;
+  padding: 4px 12px;
+  position: relative;
+  width: fit-content;
+}
+
+.my-pets .text-2 {
+  color: #6b7da4;
+  font-family: "Poppins", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 23.8px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.my-pets .union-4 {
+  height: 34px;
+  left: 98px;
+  position: absolute;
+  top: 496px;
+  width: 32px;
+}
+
+.my-pets .union-5 {
+  height: 34px;
+  left: 1188px;
+  position: absolute;
+  top: 272px;
+  width: 32px;
+}
+
+.my-pets .overlap-group7 {
+  height: 64px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1280px;
+}
+
+.my-pets .header-2 {
+  background-color: #ffffff;
+  height: 64px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1280px;
+}
+
+.my-pets .logo-2 {
+  height: 48px;
+  left: 24px;
+  position: absolute;
+  top: 8px;
+  width: 101px;
+}
+
+.my-pets .avatars {
+  background-image: url(../../../static/img/face-boy-02.png);
+  background-size: 100% 100%;
+  height: 40px;
+  left: 1216px;
+  position: absolute;
+  top: 12px;
+  width: 40px;
+}
+
+.my-pets .actions {
+  align-items: flex-start;
+  display: flex;
+  gap: 16px;
+  left: 641px;
+  position: absolute;
+  top: 8px;
+  width: fit-content;
+}
+
+.my-pets .icon-text {
+  align-items: center;
+  border: 1px solid;
+  border-color: #ced4e1;
+  border-radius: 8px;
+  cursor: pointer;
+  display: flex;
+  gap: 4px;
+  padding: 8px 12px 8px 8px;
+  position: relative;
+  width: fit-content;
+}
+
+.my-pets .text-wrapper-29 {
+  color: #20469e;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.my-pets .icon-text-2 {
+  align-items: center;
+  border: 1px solid;
+  border-color: #ced4e1;
+  border-radius: 8px;
+  display: flex;
+  gap: 4px;
+  padding: 8px 12px 8px 8px;
+  position: relative;
+  width: fit-content;
+}

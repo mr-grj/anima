@@ -1,0 +1,190 @@
+.notification {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  min-width: 521px;
+  position: relative;
+}
+
+.notification .screen-highlight {
+  background-color: #63dc8c;
+  height: 24px;
+  min-width: 521px;
+  position: relative;
+}
+
+.notification .area-pressets {
+  align-items: center;
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  width: 521px;
+}
+
+.notification .content-headers {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  padding: 24px 8px 16px 0px;
+  position: relative;
+}
+
+.notification .frame {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  padding: 0px 16px;
+  position: relative;
+  width: fit-content;
+}
+
+.notification .section-tags {
+  align-items: flex-start;
+  background-color: #c69b7b;
+  border-radius: 4px;
+  display: flex;
+  gap: 8px;
+  padding: 4px 8px;
+  position: relative;
+  width: fit-content;
+}
+
+.notification .heading {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 800;
+  letter-spacing: 0.36px;
+  line-height: 18px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.notification .content {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: #f9f9fc;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  position: relative;
+}
+
+.notification .separator {
+  align-self: stretch;
+  background-image: url(../../../static/img/line-3.svg);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  margin-top: -1px;
+  min-width: 521px;
+  position: relative;
+}
+
+.notification .icon-text-wrapper {
+  align-items: flex-start;
+  display: flex;
+  gap: 8px;
+  padding: 0px 16px;
+  position: relative;
+  width: 376px;
+}
+
+.notification .icon-text {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  gap: 4px;
+  position: relative;
+}
+
+.notification .icons {
+  height: 40px;
+  min-width: 40px;
+  position: relative;
+}
+
+.notification .img {
+  height: 24px;
+  left: 8px;
+  position: absolute;
+  top: 8px;
+  width: 24px;
+}
+
+.notification .div-2 {
+  color: #3a3845;
+  flex: 1;
+  font-family: "Inter", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  letter-spacing: -0.2px;
+  line-height: 27px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.notification .text-wrapper {
+  font-weight: 600;
+}
+
+.notification .span {
+  font-style: italic;
+}
+
+.notification .separator-2 {
+  background-image: url(../../../static/img/line-3-1.svg);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  min-width: 376px;
+  position: relative;
+}
+
+.notification .div-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  gap: 8px;
+  padding: 0px 24px;
+  position: relative;
+}
+
+.notification .notification-text-goes-here {
+  color: #3a3845;
+  flex: 1;
+  font-family: "Inter", Helvetica;
+  font-size: 18px;
+  font-style: italic;
+  font-weight: 400;
+  letter-spacing: -0.2px;
+  line-height: 27px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.notification .union {
+  height: 16px;
+  left: 8px;
+  position: absolute;
+  top: 12px;
+  width: 24px;
+}
+
+.notification .text-wrapper-2 {
+  font-style: italic;
+  text-decoration: underline;
+}
+
+.notification .text-wrapper-3 {
+  font-weight: 600;
+  text-decoration: underline;
+}
